@@ -42,7 +42,7 @@ INSTALLATION
 Clone the repository:
 
 git clone https://github.com/20code-submission-review25/anonzkp-harbor-6092
-cd zk-map
+
 
 Build the project:
 
